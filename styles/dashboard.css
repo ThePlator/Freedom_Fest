@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  margin: 0 0 0 20px;
+  background-image: url(../images/bacgroundOfDashboard.jpg);
+  background-size: cover;
+}
+
+.btn {
+  background-color: rgb(83, 114, 240);
+  border: 1px solid rgb(83, 114, 240);
+}
+
+h2 {
+  background-color: rgb(83, 114, 240);
+  margin-top: 10px;
+  border-radius: 10px;
+  color: #fff;
+}
